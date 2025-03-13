@@ -1,11 +1,12 @@
 [toolchain]
+ anchor_version = "0.30.1"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.localnet]
-fur_eco_contract = "7VB9bByo3zkshwzUEN4DBq9EQKMedSU81gdFyGVQgAHW"
+furb = "6n94E9pEixrcVfap2iF9GE7nuhPQ8Kf9rVhxwjYAksrp"
 
 [registry]
 url = "https://api.apr.dev"
